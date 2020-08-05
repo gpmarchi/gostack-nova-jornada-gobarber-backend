@@ -1,6 +1,6 @@
-# Primeiro projeto de Node.js com TypeScript
+# GoBarber back-end - Node.js com TypeScript
 
-Primeiro projeto desenvolvido dentro da nova jornada do bootcamp GoStack em Node.js com TypeScript, ESLint, Prettier e EditorConfig
+Nova versão do projeto principal desenvolvido na nova jornada do bootcamp GoStack usando Node.js com TypeScript, ESLint, Prettier e EditorConfig. Desenvolvido seguindo os princípios do SOLID, com apoio dos patterns DTO, Model, Service e Repository.
 
 ## Tecnologias e libs utilizadas
 
@@ -18,7 +18,7 @@ Seguem as tecnologias utilizadas no desenvolvimento:
 Para instalar o projeto localmente na sua máquina basta clonar o repositório:
 
 ```bash
-git clone https://github.com/gpmarchi/gostack-nova-jornada-node-com-typescript.git && cd gostack-nova-jornada-node-com-typescript
+git clone https://github.com/gpmarchi/gostack-nova-jornada-gobarber-backend.git && cd gostack-nova-jornada-gobarber-backend
 ```
 
 E rodar o comando abaixo para instalar as dependências necessárias:
