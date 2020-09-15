@@ -117,4 +117,7 @@ tmp/*
 # MacOS
 .DS_Store
 
+# Typescript ormconfig file
+ormconfig.json
+
 # End of https://www.toptal.com/developers/gitignore/api/node
