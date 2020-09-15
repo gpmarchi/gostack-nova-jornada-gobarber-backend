@@ -15,13 +15,13 @@ interface IRequestDTO {
 
 @injectable()
 class CreateAppointmentService {
-  private appointmentsRepository: IAppointmentRepository;
+  private appointmentsRepository: IAppointmentsRepository;
 
   private notificationsRepository: INotificationsRepository;
 
   constructor(
     @inject('AppointmentsRepository')
-    appointmentsRepository: IAppointmentRepository,
+    appointmentsRepository: IAppointmentsRepository,
     @inject('NotificationsRepository')
     notificationsRepository: INotificationsRepository,
   ) {
