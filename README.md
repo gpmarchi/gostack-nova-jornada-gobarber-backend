@@ -97,13 +97,13 @@ docker run -d --name redis -p 6379:6379 redis:alpine
 Para instalar o projeto localmente na sua máquina, clonar o repositório:
 
 ```bash
-$ git clone https://github.com/gpmarchi/gostack-nova-jornada-gobarber-backend && cd gostack-nova-jornada-gobarber-backend
+git clone https://github.com/gpmarchi/gostack-nova-jornada-gobarber-backend && cd gostack-nova-jornada-gobarber-backend
 ```
 
 Rodar o comando abaixo para instalar as dependências:
 
 ```bash
-$ yarn install
+yarn install
 ```
 
 ## ⚙️ Configurações
@@ -577,6 +577,7 @@ Com exceção das rotas de login, de criação de um novo usuário, do envio de 
     }
   ]
   ```
+
 ## 🤹 Testes automatizados
 
 Conforme mencionado anteriormente, as regras de negócio presentes nos `services` foram todas desenvolvidas utilizando a técnica de TDD.
