@@ -2,7 +2,7 @@
 
 <p align="center">
   <span>Português</span> |
-  <a href="https://github.com/gpmarchi/gostack-nova-jornada-gobarber-backend/blob/master/lang/english/README.md#fastfeet-back-end">English</a>
+  <a href="https://github.com/gpmarchi/gostack-nova-jornada-gobarber-backend/blob/master/lang/english/README.md#gobarber-back-end">English</a>
 </p>
 
 Projeto desenvolvido como exercício do Bootcamp Gostack 13 da Rocketseat, para uma aplicação de controle de agendamentos de clientes pelos prestadores de serviço de uma barbearia, a GoBarber.

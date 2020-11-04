@@ -1,7 +1,7 @@
 # GoBarber back-end
 
 <p align="center">
-  <a href="https://github.com/gpmarchi/gostack-nova-jornada-gobarber-backend/blob/master/lang/english/README.md#fastfeet-back-end">Português</a> |
+  <a href="https://github.com/gpmarchi/gostack-nova-jornada-gobarber-backend/blob/master/lang/english/README.md#gobarber-back-end">Português</a> |
   <span>English</span>
 </p>
 
